@@ -4,12 +4,12 @@ To set the access rights to a given user, but without any inheritance
 ## TOC
 STEP | ACTION
 -----|----------------------------------------
-1    | DEFINE VISUALS
-2    | DEFINE MANDATORY PARAMETERS
-2.1  | GET PATH
-2.2  | GET SECURITY GROUP
-3    | ASSIGN PERMISSIONS
-4    | CALL THE FUNCTION WITH THE ENDLESS LOOP
+1    | Define visuals
+2    | Define mandatory parameters
+2.1  | Get path
+2.2  | Get security group
+3    | Assign permissions
+4    | Call the function with the endless loop
     
 ## CREATED
 Brno, GITC, 2019-07-26
